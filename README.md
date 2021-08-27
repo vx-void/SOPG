@@ -17,7 +17,7 @@ Before using it, make sure that you have the latest version of the Chromium brow
 
 The script collects proxies by country. If you did not enter a country or entered 'all', the script will extract proxies for different countries
 
-COUNTRYES:
+COUNTRIES:
 us - USA
 ru - Russian Federation
 id - Indonesia

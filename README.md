@@ -7,6 +7,8 @@ Author: Vx-V01d
 jabber: vx-v01d@404.city
 
 
+
+
 DESCRIPTION:
 
 This script for extracting a proxy from https://spys.one for Linux.

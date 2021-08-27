@@ -1,6 +1,9 @@
 SPYS.ONE PROXY GRABBER aka SOPG
+
 version: 1.0
+
 Author: Vx-V01d
+
 jabber: vx-v01d@404.city
 
 
